@@ -1,0 +1,65 @@
+# AI Learning Journey - Git Ignore File
+
+# Personal notes that shouldn't be shared publicly (if you want to keep some private)
+# Uncomment these lines if you want to keep certain files private:
+# learning_journal.md
+# personal_notes/
+
+# Certificate files (contains your personal info)
+certificates/*.pdf
+certificates/*.png
+certificates/*.jpg
+
+# Keep the certificates folder structure but not the files
+!certificates/.gitkeep
+
+# Python virtual environments (if you create any during projects)
+venv/
+env/
+.venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Project dependencies
+node_modules/
+package-lock.json
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Sensitive information
+.env
+.env.local
+secrets.txt
+api_keys.txt
+credentials.json
+
+# Build outputs (when you start building projects)
+dist/
+build/
+*.egg-info/
+
+# Local development databases
+*.db
+*.sqlite
+*.sqlite3
