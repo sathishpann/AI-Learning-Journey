@@ -2,8 +2,8 @@
 
 **Start Date:** April 16, 2026  
 **Current Week:** 1  
-**Streak:** 0 days  
-**Total XP:** 0 / 3000
+**Streak:** 2 days  
+**Total XP:** 225 / 3000
 
 ---
 
@@ -30,30 +30,31 @@
 ### Week 1: April 16-22, 2026
 
 #### Day 1 - Wednesday, April 16
-- [ ] Session completed (10:30-11:15)
-- **Course:** AI Fluency - Module 1
+- [x] Session completed
+- **Course:** AI Fluency: Framework & Foundations
 - **Tasks completed:**
-  - 
-- **XP earned today:** 0
-- **Total XP:** 0
-- **Streak:** 0 days
-- **Energy:** 😃 😊 😐 😕 😞
-- **Today's win:**
-- **Tomorrow's focus:**
+  - ✅ Completed AI Fluency certification
+  - ✅ Posted LinkedIn announcement
+- **XP earned today:** 125 (Certificate: 100 + LinkedIn post: 25)
+- **Total XP:** 125
+- **Streak:** 1 day
+- **Energy:** 😃
+- **Today's win:** Finished entire AI Fluency course on Day 1!
+- **Tomorrow's focus:** Claude 101
 
 ---
 
 #### Day 2 - Thursday, April 17
-- [ ] Session completed (10:30-11:15)
-- **Course:** AI Fluency - Modules 2-3
+- [x] Session completed
+- **Course:** Claude 101
 - **Tasks completed:**
-  - 
-- **XP earned today:** 0
-- **Total XP:** 0
-- **Streak:** 0 days
-- **Energy:** 😃 😊 😐 😕 😞
-- **Today's win:**
-- **Tomorrow's focus:**
+  - ✅ Completed Claude 101 certification
+- **XP earned today:** 100 (Certificate: 100)
+- **Total XP:** 225
+- **Streak:** 2 days
+- **Energy:** 😃
+- **Today's win:** Knocked out Claude 101 — 2 certs in 2 days!
+- **Tomorrow's focus:** Intro to MCP
 
 ---
 
@@ -103,9 +104,11 @@
 **Completion:** 0/5 days ⬜⬜⬜⬜⬜
 
 **Achievements:**
-- [ ] AI Fluency course completed
-- [ ] Certificate earned
-- [ ] Added to LinkedIn
+- [x] AI Fluency course completed
+- [x] AI Fluency certificate earned
+- [x] AI Fluency posted to LinkedIn
+- [x] Claude 101 course completed
+- [x] Claude 101 certificate earned
 - [ ] Week 1 notes documented
 
 **Total XP This Week:** 0
@@ -127,8 +130,8 @@ Complete Claude 101 + build first GitHub project
 
 | Week | Dates | Course | Certificate | Project | LinkedIn | Streak | XP |
 |------|-------|--------|-------------|---------|----------|--------|-----|
-| 1 | Apr 16-22 | AI Fluency | ⬜ | - | ⬜ | 0/5 | 0 |
-| 2 | Apr 23-29 | Claude 101 | ⬜ | Prompt Library | ⬜ | 0/5 | 0 |
+| 1 | Apr 16-22 | AI Fluency + Claude 101 | ✅✅ | - | ✅ | 2/5 | 225 |
+| 2 | Apr 23-29 | MCP Intro | ⬜ | Prompt Library | ⬜ | 0/5 | 0 |
 | 3 | Apr 30-May 6 | MCP Intro | ⬜ | - | ⬜ | 0/5 | 0 |
 | 4 | May 7-13 | MCP Intro | ⬜ | Support MCP | ⬜ | 0/5 | 0 |
 
@@ -145,8 +148,8 @@ Complete Claude 101 + build first GitHub project
 
 | # | Course Name | Date Earned | Added to LinkedIn | Certificate File |
 |---|-------------|-------------|-------------------|------------------|
-| 1 | AI Fluency: Framework & Foundations | - | ⬜ | 01_ai_fluency.pdf |
-| 2 | Claude 101 | - | ⬜ | 02_claude_101.pdf |
+| 1 | AI Fluency: Framework & Foundations | April 16, 2026 | ✅ | 01_ai_fluency.pdf |
+| 2 | Claude 101 | April 17, 2026 | ⬜ | 02_claude_101.pdf |
 | 3 | Intro to MCP | - | ⬜ | 03_mcp_intro.pdf |
 | 4 | Claude Code 101 | - | ⬜ | 04_claude_code_101.pdf |
 | 5 | Claude Code in Action | - | ⬜ | 05_claude_code_action.pdf |

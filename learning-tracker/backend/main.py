@@ -151,9 +151,10 @@ def get_stats(db: Session = Depends(get_db)):
         dates = [entry.date.date() for entry in entries]
         today = datetime.now().date()
 
-        # Current streak
-        for i in range((today - dates[0]).days + 1):
-            check_date = today - timedelta(days=i)
+        # Current streak (start from today; if no entry today, start from yesterday)
+        start_date = today if today in dates else today - timedelta(days=1)
+        for i in range((start_date - dates[0]).days + 1):
+            check_date = start_date - timedelta(days=i)
             if check_date in dates:
                 current_streak += 1
             else:
