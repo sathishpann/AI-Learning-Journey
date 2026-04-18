@@ -6,9 +6,9 @@
 # personal_notes/
 
 # Certificate files (contains your personal info)
-certificates/*.pdf
-certificates/*.png
-certificates/*.jpg
+#certificates/*.pdf
+#certificates/*.png
+#certificates/*.jpg
 
 # Keep the certificates folder structure but not the files
 !certificates/.gitkeep
