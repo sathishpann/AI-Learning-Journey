@@ -43,8 +43,8 @@ Build hands-on AI skills applicable to enterprise software engineering: agentic 
 
 | # | Course | Status |
 |---|---|---|
-| 1 | AI Fluency: Framework & Foundations | In Progress |
-| 2 | Claude 101 | Not Started |
+| 1 | AI Fluency: Framework & Foundations | ✅ Completed |
+| 2 | Claude 101 | ✅ Completed |
 | 3 | Introduction to Model Context Protocol | Not Started |
 | 4 | Claude Code 101 | Not Started |
 | 5 | Claude Code in Action | Not Started |
@@ -87,10 +87,49 @@ Build hands-on AI skills applicable to enterprise software engineering: agentic 
 
 | Metric | Current | Target |
 |---|---|---|
-| Certificates | 0 | 10 |
-| Projects | 0 | 10 |
-| LinkedIn Posts | 0 | 26 |
+| Certificates | 2 | 10 |
+| Projects | 1 | 10 |
+| LinkedIn Posts | 1 | 26 |
 | Week | 1 | 24 |
+
+---
+
+## Learning Tracker — Interactive Web App
+
+A full-stack web application built to log daily learnings, track progress, and visualize the journey through an interactive dashboard.
+
+### Features
+- **Dashboard** — Stats at a glance: current streak, longest streak, total entries, average energy level, wins & challenges
+- **Energy Level Trend** — Recharts-powered line graph showing energy over the last 14 days
+- **Daily Entry** — Journal each day's course/topic, learnings, aha moments, challenges, wins, and work applications with auto-save
+- **Quick Notes** — Capture wins, challenges, ideas, and questions on the fly
+- **Search** — Full-text search across all journal entries with keyword highlighting
+
+### Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| Frontend | React 18, TypeScript, Vite, Recharts, Axios |
+| Backend | Python, FastAPI, Uvicorn, Pydantic |
+| Database | SQLite via SQLAlchemy ORM |
+
+### Architecture
+
+```
+Browser (:3000)  →  Vite Dev Proxy  →  FastAPI (:8000)  →  SQLite
+   React UI              /api/*           Python API        learning_journal.db
+```
+
+### Run Locally
+
+```bash
+cd learning-tracker
+./start.sh
+# Frontend: http://localhost:3000
+# Backend API: http://localhost:8000
+```
+
+See [learning-tracker/ARCHITECTURE.md](learning-tracker/ARCHITECTURE.md) for the full architecture breakdown.
 
 ---
 
