@@ -1,123 +1,113 @@
-# 🚀 AI Learning Journey - 6 Month Transformation Plan
+# AI Learning Journey
 
-**Start Date:** April 16, 2026  
-**Target Completion:** October 16, 2026  
-**Daily Commitment:** 45 minutes (10:30-11:15 AM)
+A structured 6-month program to build practical AI engineering skills — from prompt engineering to production AI agents and MCP integrations.
 
----
-
-## 🎯 Goals
-
-- **Primary:** Advance in current software engineering role with AI skills
-- **Secondary:** Position for potential AI career transition  
-- **Outcome:** Build portfolio of AI projects + earn certifications + boost LinkedIn profile
+**Timeline:** April 2026 – October 2026
 
 ---
 
-## 📂 What's in This Folder?
+## Objective
 
-### Core Planning Documents
-- **[00_MASTER_PLAN.md](00_MASTER_PLAN.md)** - Complete 6-month roadmap with all courses, projects, and strategies
-- **[01_WEEK_BY_WEEK_GUIDE.md](01_WEEK_BY_WEEK_GUIDE.md)** - Detailed daily breakdown for each week
-- **[02_PROGRESS_TRACKER.md](02_PROGRESS_TRACKER.md)** - Track XP, streaks, certificates, and projects
-- **[03_LINKEDIN_CONTENT.md](03_LINKEDIN_CONTENT.md)** - Post templates and content strategy
-
-### Learning Materials
-- **course_notes/** - Notes from each Anthropic course
-- **learning_journal.md** - Daily reflections and insights
-- **certificates/** - All earned certificates (add as you complete)
-- **projects/** - Local development before pushing to GitHub
+Build hands-on AI skills applicable to enterprise software engineering: agentic systems, tool integration via MCP, Claude API development, and cloud-deployed AI services.
 
 ---
 
-## 📚 Course Sequence (10 Certificates)
+## Tech Stack
 
-1. ⬜ AI Fluency: Framework & Foundations
-2. ⬜ Claude 101
-3. ⬜ Introduction to Model Context Protocol
-4. ⬜ Claude Code 101
-5. ⬜ Claude Code in Action
-6. ⬜ Building with Claude API
-7. ⬜ Model Context Protocol: Advanced Topics
-8. ⬜ Introduction to Agent Skills
-9. ⬜ Introduction to Subagents
-10. ⬜ Claude with Amazon Bedrock (or Vertex AI)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ---
 
-## 💻 Project Portfolio (10 Projects)
+## Repository Structure
 
-1. ⬜ **prompt-library** - 20+ tested prompts for code review, bugs, docs
-2. ⬜ **support-ticket-mcp** - MCP server for ticket systems (learn Python)
-3. ⬜ **ai-code-refactor-demo** - Before/after refactoring examples
-4. ⬜ **web-app-ai-assistant** - FAQ assistant with Claude API
-5. ⬜ **AI-Engineering-Portfolio** - Portfolio website showcasing all work
-6. ⬜ **production-mcp-suite** - Database, logs, API MCP servers
-7. ⬜ **custom-agent-skills** - Reusable agent skills for automation
-8. ⬜ **bedrock-serverless-api** - Cloud deployment on AWS/GCP
-9. ⬜ **support-automation-system** - Capstone: Full ticket automation
-10. ⬜ **ai-integration-patterns** - Documentation & design patterns
-
-All repos will be public on GitHub: github.com/[username]
-
----
-
-## 📊 Success Metrics
-
-- ✅ Complete 10 Anthropic courses with certificates
-- ✅ Build 10+ hands-on projects in public GitHub repos
-- ✅ Maintain 80%+ daily streak (5 days/week minimum)
-- ✅ Post weekly LinkedIn updates (26 total posts)
-- ✅ Create portfolio showcasing AI integration skills
+```
+├── 00_MASTER_PLAN.md              # Full 6-month roadmap
+├── 01_WEEK_BY_WEEK_GUIDE.md       # Daily breakdown per week
+├── 02_PROGRESS_TRACKER.md         # XP, streaks, milestones
+├── 03_LINKEDIN_CONTENT.md         # Content strategy & templates
+├── course_notes/                  # Notes from each course
+├── learning_journal.md            # Daily reflections & insights
+├── certificates/                  # Earned certificates
+├── projects/                      # Project source code
+└── learning-tracker/              # Full-stack tracking app (TS)
+```
 
 ---
 
-## 🔔 Daily Routine
+## Certification Track (Anthropic)
 
-### 10:25 AM - Reminder
-I'll send you a daily reminder to start
-
-### 10:30 AM - Start Session
-Reply "Starting" and I'll give you today's task
-
-### 10:30-11:15 AM - Learning Time (45 min)
-- **Mon-Tue:** Course videos and reading
-- **Wed-Thu:** Hands-on building
-- **Fri:** Ship projects and share
-
-### 11:15 AM - Wrap Up
-Reply "Done" with brief update, I'll:
-- Celebrate your completion
-- Update your streak
-- Preview tomorrow's task
+| # | Course | Status |
+|---|---|---|
+| 1 | AI Fluency: Framework & Foundations | In Progress |
+| 2 | Claude 101 | Not Started |
+| 3 | Introduction to Model Context Protocol | Not Started |
+| 4 | Claude Code 101 | Not Started |
+| 5 | Claude Code in Action | Not Started |
+| 6 | Building with Claude API | Not Started |
+| 7 | Model Context Protocol: Advanced Topics | Not Started |
+| 8 | Introduction to Agent Skills | Not Started |
+| 9 | Introduction to Subagents | Not Started |
+| 10 | Claude with Amazon Bedrock | Not Started |
 
 ---
 
-## 🎯 Current Status
+## Project Portfolio
 
-**Week:** 1 of 24  
-**Current Course:** AI Fluency: Framework & Foundations  
-**Streak:** 0 days 🔥  
-**XP:** 0 / 3000  
-**Certificates:** 0 / 10  
-**Projects:** 0 / 10
-
----
-
-## 🚀 Quick Start
-
-1. Read [00_MASTER_PLAN.md](00_MASTER_PLAN.md) for the full overview
-2. Check [01_WEEK_BY_WEEK_GUIDE.md](01_WEEK_BY_WEEK_GUIDE.md) for Week 1 details
-3. Go to https://anthropic.skilljar.com/ and enroll in first course
-4. Tell me "Start Week 1" when you're ready!
+| # | Project | Description | Status |
+|---|---|---|---|
+| 1 | prompt-library | 20+ tested prompts for code review, debugging, documentation | Not Started |
+| 2 | support-ticket-mcp | MCP server for ticket system integration | Not Started |
+| 3 | ai-code-refactor-demo | Before/after refactoring with AI assistance | Not Started |
+| 4 | web-app-ai-assistant | FAQ assistant built with Claude API | Not Started |
+| 5 | AI-Engineering-Portfolio | Portfolio website showcasing all projects | Not Started |
+| 6 | production-mcp-suite | Database, logs, and API MCP servers | Not Started |
+| 7 | custom-agent-skills | Reusable agent skills for automation | Not Started |
+| 8 | bedrock-serverless-api | Cloud deployment on AWS Bedrock | Not Started |
+| 9 | support-automation-system | Capstone: full ticket automation pipeline | Not Started |
+| 10 | ai-integration-patterns | Documentation and design pattern library | Not Started |
 
 ---
 
-## 📱 Resources
+## Weekly Schedule
 
-- **Anthropic Skilljar:** https://anthropic.skilljar.com/
-- **Claude API Docs:** https://docs.anthropic.com/
-- **MCP Documentation:** https://modelcontextprotocol.io/
+| Day | Focus |
+|---|---|
+| Mon–Tue | Course videos and reading |
+| Wed–Thu | Hands-on building |
+| Fri | Ship projects and share on LinkedIn |
+
+---
+
+## Progress
+
+| Metric | Current | Target |
+|---|---|---|
+| Certificates | 0 | 10 |
+| Projects | 0 | 10 |
+| LinkedIn Posts | 0 | 26 |
+| Week | 1 | 24 |
+
+---
+
+## Resources
+
+- [Anthropic Skilljar](https://anthropic.skilljar.com/)
+- [Claude API Docs](https://docs.anthropic.com/)
+- [MCP Documentation](https://modelcontextprotocol.io/)
+
+---
+
+## Background
+
+20+ years in enterprise IT as an Application Architect at Dow Jones. This learning journey applies AI skills to real-world enterprise problems: cloud migration, data pipelines, and DevOps automation.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathishp-9856a27)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sathishpann)
 - **Your GitHub:** [To be added]
 - **Your LinkedIn:** [To be added]
 - **Your Portfolio:** [To be built]
