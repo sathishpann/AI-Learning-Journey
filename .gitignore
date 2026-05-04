@@ -57,6 +57,7 @@ credentials.json
 # Build outputs (when you start building projects)
 dist/
 build/
+Docs/
 *.egg-info/
 
 # Local development databases
